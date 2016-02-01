@@ -1,4 +1,4 @@
-package com.brainwreckage.templates.maven.integration;
+package com.brainwreckage;
 
 import java.util.List;
 

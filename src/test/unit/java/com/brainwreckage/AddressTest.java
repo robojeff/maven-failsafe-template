@@ -1,5 +1,5 @@
 
-package com.brainwreckage.templates.maven.integration;
+package com.brainwreckage;
 
 import org.junit.Test;
 
